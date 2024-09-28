@@ -1,0 +1,1 @@
+# product_has_many_price
